@@ -4,10 +4,14 @@ import Navbar from './components/Navbar';
 import Banner from './components/Banner';
 import Row from './components/Row';
 import './App.css';
+import Header from './components/Header';
+import Footer from './components/Footer';
 
 function App() {
   return (
     <div className="app">
+    <Header/>
+   
       <Navbar />
       <Banner />
       <Row title="NETFLIX ORIGINALS" fetchUrl="/netflix-originals" isLargeRow />
@@ -18,6 +22,7 @@ function App() {
       <Row title="Horror Movies" fetchUrl="/horror" />
       <Row title="Romance Movies" fetchUrl="/romance" />
       <Row title="Documentaries" fetchUrl="/documentaries" />
+      <Footer/>
     </div>
   );
 }
