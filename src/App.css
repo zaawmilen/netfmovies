@@ -1,8 +1,14 @@
+/* App.css */
+/* App.css */
+.app {
+  background-color: #111;
+  color: #fff;
+}
 
-*{
-  margin: 0
-  padding 0;
-}
-.App {
-  background : rgb(221, 14, 14);
-}
+* {
+  background-color: hwb(60 4% 95%);
+  text-align: center;
+  text-decoration-color: black;
+
+} 
+
