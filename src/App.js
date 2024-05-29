@@ -18,7 +18,7 @@ const App = () => {
 
       <Header/>
       {/* <NavBar/> */}
-       {/* <Banner />  */}
+        <Banner/> 
       {/* <Row title="NETFLIX ORIGINALS" fetchUrl="/netflix-originals" isLargeRow />
       <Row title="Trending Now" fetchUrl="/trending" />
        <Row title="Top Rated" fetchUrl="/top-rated" />
