@@ -1,6 +1,10 @@
 import React from 'react'
 import './Header.css';
 import SearchIcon from '@mui/icons-material/Search';
+import NotificationsNoneIcon from '@mui/icons-material/NotificationsNone';
+import PersonIcon from '@mui/icons-material/Person';
+import ArrowDropDownIcon from '@mui/icons-material/ArrowDropDown';
+
 const Header = () => {
   return (
     <div>

@@ -9,43 +9,43 @@ const Footer = () => {
     <div>
        <footer className="footer">
       <div className="footer__links">
-      <div class="Social__links">
+      <div className="Social__links">
       <a calss="social-link" href="#" target="_blank">FacebookIcon</a>
       <a calss="social-link" href="#" target="_blank">InstagramIcon</a>
       <a calss="social-link" href="#" target="_blank">YouTubeIcon</a>
        </div>
 
-       <div class="member Footer__links">
-      <a class="member Footer__link" href="#">Audio Descrppiption</a>
-      <a class="member Footer__link" href="#">Investor Realtions</a>
+       <div className="member Footer__links">
+      <a className="member Footer__link" href="#">Audio Descrppiption</a>
+      <a className="member Footer__link" href="#">Investor Realtions</a>
        </div>
        
-      <div class="member Footer__links">
-      <a class= "member Footer__link" href="#">Legal Notices</a>
-      <a class= "member Footer__link" href="#">Help centre</a>
+      <div className="member Footer__links">
+      <a className= "member Footer__link" href="#">Legal Notices</a>
+      <a className= "member Footer__link" href="#">Help centre</a>
       <a className= "Jmember Footer__link" href="#">Jobs</a>
       </div>
       
-      <div class="member Footer__links">
+      <div className="member Footer__links">
 
-      <a class= "member Footer__link" href="#">Cookie Preferences</a>
-      <a class= "member Footer__link" href="#">Gift cards</a>
+      <a className= "member Footer__link" href="#">Cookie Preferences</a>
+      <a className= "member Footer__link" href="#">Gift cards</a>
       <a className= "member Footer__link" href="#">Terms of Use</a>
     
         </div>
       
-      <div class="member Footer__links">
-      <a class= "member Footer__link"  href="#">Corporate Information</a>
+      <div className="member Footer__links">
+      <a className= "member Footer__link"  href="#">Corporate Information</a>
        <a className= "member Footer__link" href="#">About</a>
-       <a class= "member Footer__link" href="#">Privacy Policy</a>
+       <a className= "member Footer__link" href="#">Privacy Policy</a>
       </div>
     
-       <div class="member Footer__links">
-       <a class= "member Footer__link"href="#">Terms of Service</a>
-       <a class= "member Footer__link" href="#">Contact Us</a>
+       <div className="member Footer__links">
+       <a className= "member Footer__link"href="#">Terms of Service</a>
+       <a className= "member Footer__link" href="#">Contact Us</a>
        </div>
 
-      <div class="footer__copyright">
+      <div className="footer__copyright">
       <p className="footer__copyright">
         © 1997-2024 Netflix Clone.
         
