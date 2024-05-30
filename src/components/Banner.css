@@ -32,12 +32,12 @@
   padding-bottom: 0.5rem;
   background-color: rgba(51, 51, 51, 0.5);
 }
-.play{
+/* .play{
   color: #000;
   background-color: #fff;
-}
+} */
 .banner__button:hover {
-  color: #21e71a;
+  color: #000000;
   background-color: #e6e6e6;
   transition: all 0.2s;
 }
