@@ -1,0 +1,503 @@
+{
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/tkHQ7tnYYUEnqlrKuhufIsSVToU.jpg",
+        "id": 437342,
+        "original_title": "The First Omen",
+        "overview": "When a young American woman is sent to Rome to begin a life of service to the church, she encounters a darkness that causes her to question her own faith and uncovers a terrifying conspiracy that hopes to bring about the birth of evil incarnate.",
+        "poster_path": "/uGyiewQnDHPuiHN9V4k2t9QBPnh.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "title": "The First Omen",
+        "original_language": "en",
+        "genre_ids": [
+          27
+        ],
+        "popularity": 502.74,
+        "release_date": "2024-04-03",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 175
+      },
+      {
+        "backdrop_path": "/otfoeC96neoOdA4HqsX06OWuzE9.jpg",
+        "id": 719221,
+        "original_title": "Tarot",
+        "overview": "When a group of friends recklessly violates the sacred rule of Tarot readings they unknowingly unleash an unspeakable evil trapped within the cursed cards. One by one, they come face to face with fate and end up in a race against death.",
+        "poster_path": "/gAEUXC37vl1SnM7PXsHTF23I2vq.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "title": "Tarot",
+        "original_language": "en",
+        "genre_ids": [
+          27,
+          53
+        ],
+        "popularity": 525.693,
+        "release_date": "2024-05-01",
+        "video": false,
+        "vote_average": 5.45,
+        "vote_count": 80
+      },
+      {
+        "backdrop_path": "/3TNSoa0UHGEzEz5ndXGjJVKo8RJ.jpg",
+        "id": 614933,
+        "original_title": "Atlas",
+        "overview": "A brilliant counterterrorism analyst with a deep distrust of AI discovers it might be her only hope when a mission to capture a renegade robot goes awry.",
+        "poster_path": "/bcM2Tl5HlsvPBnL8DKP9Ie6vU4r.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "title": "Atlas",
+        "original_language": "en",
+        "genre_ids": [
+          878,
+          28
+        ],
+        "popularity": 820.285,
+        "release_date": "2024-05-23",
+        "video": false,
+        "vote_average": 6.716,
+        "vote_count": 347
+      },
+      {
+        "backdrop_path": "/z121dSTR7PY9KxKuvwiIFSYW8cf.jpg",
+        "id": 929590,
+        "original_title": "Civil War",
+        "overview": "In the near future, a group of war journalists attempt to survive while reporting the truth as the United States stands on the brink of civil war.",
+        "poster_path": "/sh7Rg8Er3tFcN9BpKIPOMvALgZd.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "title": "Civil War",
+        "original_language": "en",
+        "genre_ids": [
+          10752,
+          28,
+          18
+        ],
+        "popularity": 2767.933,
+        "release_date": "2024-04-10",
+        "video": false,
+        "vote_average": 7.247,
+        "vote_count": 981
+      },
+      {
+        "backdrop_path": "/q8IEFmEGGSGmAWfwRs23XDwdFN4.jpg",
+        "id": 786892,
+        "original_title": "Furiosa: A Mad Max Saga",
+        "overview": "As the world fell, young Furiosa is snatched from the Green Place of Many Mothers and falls into the hands of a great Biker Horde led by the Warlord Dementus. Sweeping through the Wasteland they come across the Citadel presided over by The Immortan Joe. While the two Tyrants war for dominance, Furiosa must survive many trials as she puts together the means to find her way home.",
+        "poster_path": "/iADOJ8Zymht2JPMoy3R7xceZprc.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "title": "Furiosa: A Mad Max Saga",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          12,
+          878
+        ],
+        "popularity": 1193.177,
+        "release_date": "2024-05-22",
+        "video": false,
+        "vote_average": 7.721,
+        "vote_count": 400
+      },
+      {
+        "backdrop_path": "/H5HjE7Xb9N09rbWn1zBfxgI8uz.jpg",
+        "id": 746036,
+        "original_title": "The Fall Guy",
+        "overview": "Fresh off an almost career-ending accident, stuntman Colt Seavers has to track down a missing movie star, solve a conspiracy and try to win back the love of his life while still doing his day job.",
+        "poster_path": "/tSz1qsmSJon0rqjHBxXZmrotuse.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "title": "The Fall Guy",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          35
+        ],
+        "popularity": 1915.521,
+        "release_date": "2024-04-24",
+        "video": false,
+        "vote_average": 7.322,
+        "vote_count": 805
+      },
+      {
+        "backdrop_path": "/fRIzLAIlhRc1QKe8lpXOcdmmfHJ.jpg",
+        "id": 998846,
+        "original_title": "Back to Black",
+        "overview": "The extraordinary story of Amy Winehouse’s early rise to fame from her early days in Camden through the making of her groundbreaking album, Back to Black that catapulted Winehouse to global fame. Told through Amy’s eyes and inspired by her deeply personal lyrics, the film explores and embraces the many layers of the iconic artist and the tumultuous love story at the center of one of the most legendary albums of all time.",
+        "poster_path": "/xHQEeUT3Ac4fTY72UeNrI75xLtE.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "title": "Back to Black",
+        "original_language": "en",
+        "genre_ids": [
+          10402,
+          18
+        ],
+        "popularity": 211.13,
+        "release_date": "2024-04-11",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 146
+      },
+      {
+        "backdrop_path": "/xOMo8BRK7PfcJv9JCnx7s5hj0PX.jpg",
+        "id": 693134,
+        "original_title": "Dune: Part Two",
+        "overview": "Follow the mythic journey of Paul Atreides as he unites with Chani and the Fremen while on a path of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the known universe, Paul endeavors to prevent a terrible future only he can foresee.",
+        "poster_path": "/czembW0Rk1Ke7lCJGahbOhdCuhV.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "title": "Dune: Part Two",
+        "original_language": "en",
+        "genre_ids": [
+          878,
+          12
+        ],
+        "popularity": 874.167,
+        "release_date": "2024-02-27",
+        "video": false,
+        "vote_average": 8.175,
+        "vote_count": 4176
+      },
+      {
+        "backdrop_path": "/4CcUgdiGe83MeqJW1NyJVmZqRrF.jpg",
+        "id": 937287,
+        "original_title": "Challengers",
+        "overview": "Tennis player turned coach Tashi has taken her husband, Art, and transformed him into a world-famous Grand Slam champion. To jolt him out of his recent losing streak, she signs him up for a \"Challenger\" event — close to the lowest level of pro tournament — where he finds himself standing across the net from his former best friend and Tashi's former boyfriend.",
+        "poster_path": "/H6vke7zGiuLsz4v4RPeReb9rsv.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "title": "Challengers",
+        "original_language": "en",
+        "genre_ids": [
+          10749,
+          18
+        ],
+        "popularity": 374.671,
+        "release_date": "2024-04-18",
+        "video": false,
+        "vote_average": 7.3,
+        "vote_count": 782
+      },
+      {
+        "backdrop_path": "/xRd1eJIDe7JHO5u4gtEYwGn5wtf.jpg",
+        "id": 823464,
+        "original_title": "Godzilla x Kong: The New Empire",
+        "overview": "Following their explosive showdown, Godzilla and Kong must reunite against a colossal undiscovered threat hidden within our world, challenging their very existence – and our own.",
+        "poster_path": "/z1p34vh7dEOnLDmyCrlUVLuoDzd.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "title": "Godzilla x Kong: The New Empire",
+        "original_language": "en",
+        "genre_ids": [
+          878,
+          28,
+          12
+        ],
+        "popularity": 3148.883,
+        "release_date": "2024-03-27",
+        "video": false,
+        "vote_average": 7.259,
+        "vote_count": 2258
+      },
+      {
+        "backdrop_path": "/fqv8v6AycXKsivp1T5yKtLbGXce.jpg",
+        "id": 653346,
+        "original_title": "Kingdom of the Planet of the Apes",
+        "overview": "Several generations in the future following Caesar's reign, apes are now the dominant species and live harmoniously while humans have been reduced to living in the shadows. As a new tyrannical ape leader builds his empire, one young ape undertakes a harrowing journey that will cause him to question all that he has known about the past and to make choices that will define a future for apes and humans alike.",
+        "poster_path": "/gKkl37BQuKTanygYQG1pyYgLVgf.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "title": "Kingdom of the Planet of the Apes",
+        "original_language": "en",
+        "genre_ids": [
+          878,
+          12,
+          28
+        ],
+        "popularity": 3629.389,
+        "release_date": "2024-05-08",
+        "video": false,
+        "vote_average": 7.087,
+        "vote_count": 637
+      },
+      {
+        "backdrop_path": "/gqrnQA6Xppdl8vIb2eJc58VC1tW.jpg",
+        "id": 76341,
+        "original_title": "Mad Max: Fury Road",
+        "overview": "An apocalyptic story set in the furthest reaches of our planet, in a stark desert landscape where humanity is broken, and most everyone is crazed fighting for the necessities of life. Within this world exist two rebels on the run who just might be able to restore order.",
+        "poster_path": "/hA2ple9q4qnwxp3hKVNhroipsir.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "title": "Mad Max: Fury Road",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          12,
+          878
+        ],
+        "popularity": 482.175,
+        "release_date": "2015-05-13",
+        "video": false,
+        "vote_average": 7.596,
+        "vote_count": 21789
+      },
+      {
+        "backdrop_path": "/1m1rXopfNDVL3UMiv6kriYaJ3yE.jpg",
+        "id": 882059,
+        "original_title": "Boy Kills World",
+        "overview": "When his family is murdered, a deaf-mute named Boy escapes to the jungle and is trained by a mysterious shaman to repress his childish imagination and become an instrument of death.",
+        "poster_path": "/25JskXmchcYwj3jHRmcPm738MpB.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "title": "Boy Kills World",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          53,
+          80,
+          878
+        ],
+        "popularity": 795.815,
+        "release_date": "2024-04-24",
+        "video": false,
+        "vote_average": 6.784,
+        "vote_count": 104
+      },
+      {
+        "backdrop_path": "/kYgQzzjNis5jJalYtIHgrom0gOx.jpg",
+        "id": 1011985,
+        "original_title": "Kung Fu Panda 4",
+        "overview": "Po is gearing up to become the spiritual leader of his Valley of Peace, but also needs someone to take his place as Dragon Warrior. As such, he will train a new kung fu practitioner for the spot and will encounter a villain called the Chameleon who conjures villains from the past.",
+        "poster_path": "/kDp1vUBnMpe8ak4rjgl3cLELqjU.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "title": "Kung Fu Panda 4",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          28,
+          10751,
+          35,
+          14
+        ],
+        "popularity": 752.116,
+        "release_date": "2024-03-02",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 1782
+      },
+      {
+        "backdrop_path": "/qwK9soQmmJ7kRdjLZVXblw3g7AQ.jpg",
+        "id": 7451,
+        "original_title": "xXx",
+        "overview": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not exactly thrilled. His mission: to gather information on an organization that may just be planning the destruction of the world, led by the nihilistic Yorgi.",
+        "poster_path": "/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "title": "xXx",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          12,
+          53,
+          80
+        ],
+        "popularity": 465.01,
+        "release_date": "2002-08-09",
+        "video": false,
+        "vote_average": 5.933,
+        "vote_count": 4068
+      },
+      {
+        "backdrop_path": "/2mtxXjkQOLYPOhTKoCaWVVjKlfW.jpg",
+        "id": 748783,
+        "original_title": "The Garfield Movie",
+        "overview": "Garfield, the world-famous, Monday-hating, lasagna-loving indoor cat, is about to have a wild outdoor adventure! After an unexpected reunion with his long-lost father – scruffy street cat Vic – Garfield and his canine friend Odie are forced from their perfectly pampered life into joining Vic in a hilarious, high-stakes heist.",
+        "poster_path": "/p6AbOJvMQhBmffd0PIv0u8ghWeY.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "title": "The Garfield Movie",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          10751
+        ],
+        "popularity": 614.28,
+        "release_date": "2024-04-30",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 116
+      },
+      {
+        "backdrop_path": "/2nqr42Dvh6GMVECYjVG82zzJL7N.jpg",
+        "id": 1290938,
+        "original_title": "South Park: The End of Obesity",
+        "overview": "The advent of new weight loss drugs has a huge impact on everyone in South Park. When Cartman is denied access to the life-changing medicine, the kids jump into action.",
+        "poster_path": "/zxM1AIKBP83plf2buLR0cbGfvl2.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "title": "South Park: The End of Obesity",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          10770
+        ],
+        "popularity": 111.138,
+        "release_date": "2024-05-24",
+        "video": false,
+        "vote_average": 8.226,
+        "vote_count": 31
+      },
+      {
+        "backdrop_path": "/ySgY4jBvZ6qchrxKnBg4M8tZp8V.jpg",
+        "id": 1111873,
+        "original_title": "Abigail",
+        "overview": "A group of criminals kidnaps a teenage ballet dancer, the daughter of a notorious gang leader, in order to obtain a ransom of $50 million, but over time, they discover that she is not just an ordinary girl. After the kidnappers begin to diminish, one by one, they discover, to their increasing horror, that they are locked inside with an unusual girl.",
+        "poster_path": "/5gKKSoD3iezjoL7YqZONjmyAiRA.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "title": "Abigail",
+        "original_language": "en",
+        "genre_ids": [
+          27,
+          53
+        ],
+        "popularity": 444.221,
+        "release_date": "2024-04-18",
+        "video": false,
+        "vote_average": 6.856,
+        "vote_count": 585
+      },
+      {
+        "backdrop_path": "/6ApZUenk0DREBMzpthcYC3g1mhg.jpg",
+        "id": 1231574,
+        "original_title": "好きでも嫌いなあまのじゃく",
+        "overview": "A shy teenage boy's inability to say no is tested when a headstrong girl drags him on a mystical journey amid summer snow to find her missing mom.",
+        "poster_path": "/k69kkwsipkPn7Nzq488kHGQTPo.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "title": "My Oni Girl",
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          14,
+          12,
+          10751
+        ],
+        "popularity": 245.329,
+        "release_date": "2024-05-24",
+        "video": false,
+        "vote_average": 8.4,
+        "vote_count": 19
+      },
+      {
+        "backdrop_path": "/o44P2W9ga6rISAVyOrChHqXjN42.jpg",
+        "id": 1063549,
+        "original_title": "Gaga Chromatica Ball",
+        "overview": "In front of a sold-out crowd of 52,000 people, Lady Gaga delivers a career-defining performance at Los Angeles's Dodger Stadium during her 2022 Chromatica Ball Tour.",
+        "poster_path": "/8uWhPiEcMDI8XelSmfTobTmPyA1.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "title": "Gaga Chromatica Ball",
+        "original_language": "en",
+        "genre_ids": [
+          10402
+        ],
+        "popularity": 99.128,
+        "release_date": "2024-05-23",
+        "video": false,
+        "vote_average": 7.6,
+        "vote_count": 17
+      }
+    ],
+    "total_pages": 1000,
+    "total_results": 20000
+  }
+
+
+  {
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 12,
+        "name": "Adventure"
+      },
+      {
+        "id": 16,
+        "name": "Animation"
+      },
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 80,
+        "name": "Crime"
+      },
+      {
+        "id": 99,
+        "name": "Documentary"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10751,
+        "name": "Family"
+      },
+      {
+        "id": 14,
+        "name": "Fantasy"
+      },
+      {
+        "id": 36,
+        "name": "History"
+      },
+      {
+        "id": 27,
+        "name": "Horror"
+      },
+      {
+        "id": 10402,
+        "name": "Music"
+      },
+      {
+        "id": 9648,
+        "name": "Mystery"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      },
+      {
+        "id": 878,
+        "name": "Science Fiction"
+      },
+      {
+        "id": 10770,
+        "name": "TV Movie"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      },
+      {
+        "id": 10752,
+        "name": "War"
+      },
+      {
+        "id": 37,
+        "name": "Western"
+      }
+    ]
+  }

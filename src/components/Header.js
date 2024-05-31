@@ -26,24 +26,21 @@ const Header = () => {
         </ul>
       </nav>
 
-      <div className=" header_navright">
-         {/* <ul clss="header__navrightList">
-             <li>SerachIcon</li>
-             <li>NotificationsNoneIcon</li>
-             <li>PersonIcon</li>
-               <li>ArrowDropDownIcon</li>
-         </ul> */}
+      
 
-           <div className="header__navrightList">
-          <div className= "SerachIcon">
-          <div className="NotificationsNoneIcon">
-          <div className="PersonIcon">
-          <div className="ArrowDropDownIcon">
-          </div> </div> </div></div></div> 
-        
+
+    <div className="header__navright">
+      <ul className="header__navrightList">
+        <li className="header__navrightItem"><SearchIcon /></li>
+        <li className="header__navrightItem"><NotificationsNoneIcon /></li>
+        <li className="header__navrightItem"><PersonIcon /></li>
+        <li className="header__navrightItem"><ArrowDropDownIcon /></li>
+      </ul>
     </div>
+
+            
+   
       </header>
-    
     
     </div>
   )

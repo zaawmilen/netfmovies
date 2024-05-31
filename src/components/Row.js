@@ -10,7 +10,7 @@ const base_url = "https://image.tmdb.org/t/p/original/";
 
 const Row = ({ title, fetchUrl, isLargeRow = false }) => {
   const [movies, setMovies] = useState([]);
-  // const [trailerUrl, setTrailerurl] = useState('');
+  // const [trailerUrl, setTrailerurl] = useState([]);
   // const [base_url] ="https://image.tmdb.org/t/p/original"; 
   
   
@@ -27,27 +27,43 @@ const Row = ({ title, fetchUrl, isLargeRow = false }) => {
   }, 
   [fetchUrl]);
 
+// const opts = {
+      //   height: '350',
+      //   width: '100%',
+      //   playerVars: {
+      //     autoplay: 1,
+      // },
+    // };
+
+
   // // const handleClick = (movie)=> {
   // //   if (trailerUrl) {
   // //       setTrailerurl ('')
   // //          }
   // //    else {
-  // //     movieTrailer(movie?.Title  ||  movie?.name  || movie?.Original_name)
+  // //     movieTrailer(movie?.name  || ' ')
   // //       .then((url) => { 
   // //         const urlParams = new URLSearchParams(new URL(url).search)
   // //         setTrailerurl(urlParams.get('v'));
-           
+                   // }
+              // };
+       
+  
+  // from eva
+  // const handleClick = (movie)=> {
+    //  if (trailerUrl) {
+    // //       setTrailerurl ('')
+    // //          }
+    // //    else {
+    // //     movieTrailer(movie?.Title  ||  movie?.name  || movie?.Original_name)
+    // //       .then((url) => { 
+    // //         const urlParams = new URLSearchParams(new URL(url).search)
+    // //         setTrailerurl(urlParams.get('v'));
   // //     })
   //   }
   // }
   
-      // const opts = {
-      //   height: '350',
-      //   width: '1100',
-      //   playerVars: {
-      //     autoplay: 1,
-      // },
-    // }
+      
 
    return (
     <div className="row">
@@ -55,18 +71,18 @@ const Row = ({ title, fetchUrl, isLargeRow = false }) => {
       <div className="row__posters">
           {movies.map((movie) => (
              <img
-          // onClick={() =>handleClick(movie)}
+          // onClick={() => handleClick(movie)}
             key={movie.id}
             className={`row__poster ${isLargeRow && "row__posterLarge"}`}
             src={`${base_url}${isLargeRow ? movie.poster_path : movie.backdrop_path}`}
             alt={movie.name}
           />
         ))}
-      {/* </div>
+      </div>
       {/* <div style={{padding:'10px'}} >
       {trailerUrl  && <YouTube videoId={trailerUrl} opts={opts}/>}
-   */}
-    </div> 
+    </div>  */}
+
     </div>
   );
 };

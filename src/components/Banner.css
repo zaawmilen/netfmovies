@@ -1,6 +1,6 @@
 /* src/components/Banner.css */
 .banner {
-  position: relative;
+  /* position: relative; */
   color: white;
   height: 448px;
   object-fit: contain;

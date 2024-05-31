@@ -20,7 +20,7 @@ const requests = {
   fetchRomanceMovies: `/discover/movie?api_key=${API_KEY}&with_genres=10749`,
   fetchScienceFiction: `/discover/movie?api_key=${API_KEY}&with_genres=878`,
   fetchTVMovie: `/discover/movie?api_key=${API_KEY}&with_genres=10770`,
-  fetchhrillerMovies: `/discover/movie?api_key=${API_KEY}&with_genres=53`,
+  fetchThrillerMovies: `/discover/movie?api_key=${API_KEY}&with_genres=53`,
   fetchWarMovies: `/discover/movie?api_key=${API_KEY}&with_genres=10752`,
   fetchWesternMovies: `/discover/movie?api_key=${API_KEY}&with_genres=37`,
   

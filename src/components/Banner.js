@@ -21,7 +21,22 @@ const Banner = () => {
     }
     fetchData();
   }, []);
-
+    
+  // const handleClick = (movie)=> {
+    // if (trailerUrl) {
+    //    setTrailerurl ('')
+    //         }
+    //   else {
+    //    movieTrailer(movie?.name  || movie?.Title  || movie?.Original_name)
+    //      .then((url) => { 
+    //         const urlParams = new URLSearchParams(new URL(url).search)
+    //        setTrailerurl(urlParams.get('v'));
+    //                 })
+    //                }
+    //              };
+  
+  
+  
   const truncate = (str, n) => {
     return str?.length > n ? str.substr(0, n - 1) + "..." : str;
   };
@@ -39,6 +54,11 @@ const Banner = () => {
           {movie?.title || movie?.name || movie?.original_name}
         </h1>
         <div className="banner__buttons">
+        {/* onClick={() => handleClick(movie)}
+            key={movie.id}
+            className={`banner__buttons ${isLargeRow && "banner__buttonsLarge"}`}
+            src={`${base_url}${isLargeRow ? movie.poster_path : movie.backdrop_path}`}
+            alt={movie.name} */}
           <button className="banner__button">Play</button>
           <button className="banner__button">My List</button>
         </div>
