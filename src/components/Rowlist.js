@@ -132,4 +132,4 @@ const Rowlist = () => {
   )
 }
 
-export default Rowlist
+export default Rowlist;
